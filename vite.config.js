@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-	base: '/fiddling_with_github_pages/'
+	base: '/fiddling_with_github_pages/',
+	plugins: []
 });
